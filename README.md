@@ -8,7 +8,7 @@ streamlit transformers torch huggingface_hub timm
 
 Instructions:
 
-1.Click the Browse Files button to upload your desired image. \n
+1.Click the Browse Files button to upload your desired image. <br>
 2.Press the Classification or Object Detection button . 
 3.Wait a few minutes while our system analyzes your image. 
 4.View the results and insights provided by Web App.
