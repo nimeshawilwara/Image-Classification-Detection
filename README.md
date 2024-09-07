@@ -1,4 +1,4 @@
-Image-Classification-Object-Detection
+Image-Classification
 
 Image Classification and Object Detection web application with Streamlit Simply upload your image, and in just a few minutes, receive accurate and insightful results Display. This Application can do Image Classification.
 
